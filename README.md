@@ -1,2 +1,2 @@
 # LogWrapper
-Wrapper for Winston Log
+Wrapper for Winston Logging library https://github.com/winstonjs/winston.  
